@@ -1,0 +1,63 @@
+body{
+    background-image:url("PrisonMike.png");
+    background-size: 100%;
+}
+fieldset
+{
+    background-color:rgba(0, 45, 167, 0.404);
+    border-color:rgb(221, 0, 0);
+    word-spacing:125%;
+}
+label
+{
+    color:white;
+    font-size:120%;
+}
+h1
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-stretch: ultra-expanded;
+    color:red;
+    background-color:royalblue;
+}
+h2{
+    color:whitesmoke;
+}
+h3{
+    color:gold;
+}
+#username{
+    background-color:lightblue;
+    color:black;
+}
+#password
+{
+    background-color:orange;
+    color:white;
+}
+#verpass
+{
+    background-color:yellowgreen;
+    color:black;
+}
+.billing{
+    border-color:black;
+    background-color:aqua;
+}
+.delivery
+{
+    border-color:black;
+    background-color:lightgreen
+}
+#submitbutton{
+    font-variant-caps: all-petite-caps;
+    background-color: dodgerblue;
+    color: white;
+    width: 10%;
+    height: 10%
+}
+#placeorderh{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: 300%;
+}
